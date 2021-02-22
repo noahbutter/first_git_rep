@@ -1,2 +1,3 @@
 # first_git_rep
-first one
+first one 
+Edited readme
